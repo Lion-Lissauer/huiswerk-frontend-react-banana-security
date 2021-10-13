@@ -7,7 +7,8 @@ function Profile() {
       <h1>Profielpagina</h1>
       <section>
         <h2>Gegevens</h2>
-        <p><strong>Gebruikersnaam:</strong> hardcoded-test</p>
+        <p><strong>Username:</strong> hardcoded-test</p>
+          <p><strong>Password:</strong> squirrel!</p>
         <p><strong>Email:</strong> hardcoded@test.com</p>
       </section>
       <section>
